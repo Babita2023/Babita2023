@@ -1,42 +1,58 @@
 <h1 align="center">Hi 👋, I'm Babita Chamlagain</h1>
-<h3 align="center">Frontend Developer → Future Full-Stack Software Engineer 🚀</h3>
+<h3 align="center">Aspiring Software Engineer | Full-Stack Developer</h3>
 
 <p align="center">
-  I build modern, scalable web applications and love turning ideas into real-world digital products.
+  Passionate about building scalable web applications and integrating AI into real-world products.
 </p>
 
 ---
 
 ## 👩‍💻 About Me
 
-- 🔭 Currently building: **Full-Stack MERN Applications & AI-based Tools**
-- 🌱 Deeply learning: **Backend Engineering, System Design & DSA**
-- 💡 Goal: Become a **Remote Software Engineer before 2026**
-- 👯 Open to: **Open Source, Freelance Projects & Startup Collaborations**
-- 🧠 Strong interest in: Clean Code, Scalable Architecture & Real-World Problem Solving
-- ⚡ Fun fact: I don’t just write code — I engineer solutions.
+- 🔭 Currently working on: **Full-Stack Projects & AI-powered Tools**
+- 🌱 Currently learning: **Data Structures & Algorithms (DSA), Backend Engineering & AI/ML**
+- 💻 Backend Experience: **Node.js, PHP, SQL, MongoDB**
+- 🚀 Exploring: **Full-Stack Development with AI/ML Integration**
+- 👯 Open to collaborate on: **Open Source, Startups & Client Projects**
+- ⚡ I love turning ideas into functional, real-world applications.
 
 ---
 
 ## 🚀 Tech Stack
 
-### 💻 Frontend
-HTML5 • CSS3 • JavaScript • React.js • Tailwind CSS
+<p align="center">
 
-### 🛠 Backend
-Node.js • Express.js • MongoDB • REST APIs • Authentication
+<!-- Frontend -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="50"/>
 
-### 🔧 Tools
-Git • GitHub • VS Code • Postman • Figma
+<!-- Backend -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50"/>
+
+<!-- Tools -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="50"/>
+
+</p>
 
 ---
 
-## 📌 Current Focus
+## 📚 Currently Improving
 
-- Mastering **Data Structures & Algorithms**
-- Building production-level **MERN Stack Projects**
-- Writing clean, maintainable, scalable code
-- Preparing for **remote international tech roles**
+- Advanced JavaScript Concepts
+- DSA for strong problem-solving
+- Scalable Backend Architecture
+- AI/ML integration with Web Applications
 
 ---
 
@@ -49,12 +65,10 @@ Git • GitHub • VS Code • Postman • Figma
 
 ---
 
-## 🌍 Let's Connect
+## 📫 Contact
 
-- 📫 Email: babitachamlagain555@email.com
-- 💼 LinkedIn: (Add your LinkedIn link here)
-- 🎥 Sharing my coding journey on TikTok & YouTube
+- Email: babitachamlagain555@email.com
 
 ---
 
-⭐ “Consistency + Discipline + Code = Success”
+⭐ "Engineering solutions through clean code and continuous learning."
